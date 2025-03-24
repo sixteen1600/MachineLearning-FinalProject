@@ -1,0 +1,3 @@
+# 忽略特定目錄
+model_reversed/
+data/
